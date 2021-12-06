@@ -1,0 +1,1 @@
+De los tres el que más me gusto fue ejs por que me permite seguir trabajando con JavaScript y mantenerme dentro de una misma linea, aunque me gustaría seguir aprendiendo y poder tomar la decisión con un conocimiento más maduro sobre los tres.
